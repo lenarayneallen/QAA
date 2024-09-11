@@ -12,4 +12,4 @@
 
 ### Files
 
-[htseq counts files](https://github.com/lenarayneallen/QAA/tree/f025730ddaa98013e0e7e6d7d83bed61966b3340/Part_3/counts)
+[htseq-count output files](https://github.com/lenarayneallen/QAA/tree/f025730ddaa98013e0e7e6d7d83bed61966b3340/Part_3/counts)
