@@ -131,7 +131,7 @@ trimmomatic -version #--> 0.39
 
 cutadapt manual: [https://cutadapt.readthedocs.io/en/stable/index.html](https://cutadapt.readthedocs.io/en/stable/index.html)
 
-![image.png](QAA%20-%20FastQC%20e537ea7812d14a9ba27011bf9d32f11d/image.png)
+
 
 ### predicting adaptors:
 
@@ -156,7 +156,7 @@ R2: `AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT`
     - /projects/bgmp/lenara/bioinfo/Bi623/QAA/cutadapt/slurm-15932921.out
     - 14_3B_control_R1
         
-        ![image.png](QAA%20-%20FastQC%20e537ea7812d14a9ba27011bf9d32f11d/image%201.png)
+
         
         ```
         User time (seconds): 8.91
@@ -173,8 +173,7 @@ R2: `AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT`
         
     - 14_3B_control_R2
         
-        ![image.png](QAA%20-%20FastQC%20e537ea7812d14a9ba27011bf9d32f11d/image%202.png)
-        
+
         ```
         User time (seconds): 9.51
                 System time (seconds): 0.15
@@ -188,8 +187,7 @@ R2: `AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT`
         ```
         
     - 8_2F_fox_R1
-        
-        ![image.png](QAA%20-%20FastQC%20e537ea7812d14a9ba27011bf9d32f11d/image%203.png)
+
         
         ```
         User time (seconds): 75.48
@@ -205,7 +203,7 @@ R2: `AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT`
         
     - 8_2F_fox_R2
         
-        ![image.png](QAA%20-%20FastQC%20e537ea7812d14a9ba27011bf9d32f11d/image%204.png)
+
         
         ```
         User time (seconds): 76.04
